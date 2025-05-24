@@ -1,4 +1,4 @@
-package Task_02;
+package Task_2;
 
 import java.util.Scanner;
 public class avg {

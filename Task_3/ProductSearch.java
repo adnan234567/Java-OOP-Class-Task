@@ -1,4 +1,4 @@
-package Task_03;
+package Task_3;
 
 public class ProductSearch {
     public static class Product {

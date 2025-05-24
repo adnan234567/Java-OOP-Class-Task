@@ -1,4 +1,4 @@
-package Task_02;
+package Task_2;
 
 public class Pattern {
     public static void main(String[] args) {
